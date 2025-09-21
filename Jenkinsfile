@@ -2,7 +2,7 @@ pipeline{
     agent any
 
     environment {
-        EC2_USR = 'ec2-user'
+        EC2_USR = 'key_ec2'
         EC2_IP  = '18.224.69.204'
         BUILD_DIR = 'dist'
     }
