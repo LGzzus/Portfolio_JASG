@@ -4,8 +4,8 @@ import JASG from '../../../public/jasg.jpg'
 export default function Example() {
     return (
         <>
-            <div id="section-aboutMe" class='max-w-screen-xl flex flex-wrap p-5 pt-5'>
-                <div class='p-4 max-w-xl'>
+            <div id="section-aboutMe" class='max-w-screen-xl flex flex justify-center items-center-wrap p-5 pt-5 mx-auto'>
+                <div class='p-4 mr-5 max-w-xl rounded-lg dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700'>
                     <img src={JASG} class="h-lg w-xl"  alt="Flowbite Logo" />
                 </div>
                 <div>
