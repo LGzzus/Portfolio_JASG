@@ -1,15 +1,19 @@
+import JASG from '../../../public/jasg.jpg'
+
+
 export default function Example() {
     return (
         <>
-            acerca de mi
-            <div id="section-aboutMe" class=''>
-                <div>
-
+            <div id="section-aboutMe" class='max-w-screen-xl flex flex-wrap p-5 pt-5'>
+                <div class='p-4'>
+                    <img src={JASG} class="h-8" alt="Flowbite Logo" />
                 </div>
                 <div>
-                    <a href="#" class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-                        <p class="font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                    <a href="#" class="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Perfil Profesional</h5>
+                        <p class="font-normal text-gray-700 dark:text-gray-400">
+                            Desarrollador Java Backend con más de 4 años de experiencia, especializado en la creación de soluciones escalables y eficientes utilizando tecnologías como Spring Boot y PostgreSQL. Apasionado por la innovación y la mejora continua, me mantengo actualizado en nuevas herramientas y metodologías, integrando prácticas de DevOps y tecnologías en la nube como GCP y AWS para optimizar despliegues, automatizar procesos y garantizar la confiabilidad de los sistemas.                          
+                        </p>
                     </a>
                 </div>
             </div>
