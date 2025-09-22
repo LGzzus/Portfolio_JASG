@@ -22,17 +22,21 @@ const tech = () => {
                         <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt=""/>
                         <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">GCP</span>
                     </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-lg" src="://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg" alt=""/>
+                    <div class="flex bg-gray-900 dark:focus:ring-gray-600 dark:hover:bg-gray-700 pr-4 pl-4">
+                        <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=39858&format=png&color=0D5AA1" alt=""/>
+                        <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">MySQL</span>
                     </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-lg" src="htps://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg" alt=""/>
+                    <div class="flex bg-red-950 dark:focus:ring-gray-600 dark:hover:bg-red-600 pr-4 pl-4">
+                        <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=F44336" alt=""/>
+                        <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Angular</span>
                     </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-lg" src="://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg" alt=""/>
+                    <div class="flex bg-orange-800 dark:focus:ring-gray-600 dark:hover:bg-orange-600 pr-4 pl-4">
+                        <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt=""/>
+                        <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Java</span>
                     </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-lg" src="://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg" alt=""/>
+                    <div class="flex bg-purple-900 dark:focus:ring-gray-600 dark:hover:bg-purple-500 pr-4 pl-4">
+                        <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt=""/>
+                        <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">AWS</span>
                     </div>
                 </div>
             </div>
