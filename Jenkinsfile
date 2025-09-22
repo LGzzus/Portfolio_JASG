@@ -3,7 +3,7 @@ pipeline{
 
     environment {
         EC2_USR = 'ec2-user'
-        EC2_IP  = '18.224.69.204'
+        EC2_IP  = '3.21.21.64'
         BUILD_DIR = 'dist'
     }
     stages{
