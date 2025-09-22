@@ -1,9 +1,9 @@
 const tech = () => {
     return (
         <>
-            <div id="section-aboutMe" class='max-w-screen-xl flex flex-col lg:flex-row justify-center items-center lg:items-center p-5 pt-5 mx-auto gap-5'>
-                <h1>Technologies</h1>
-            </div>
+           <div class='max-w-screen-xl flex flex-col items-center justify-center p-5 pt-5 mx-auto gap-1'>
+                <span class="text-transparent  text-2xl font-bold bg-clip-text bg-gradient-to-r from-green-500 to-yellow-400">Tecnologias</span>
+           </div>
             <div id="section-aboutMe" class='max-w-screen-xl flex flex-col lg:flex-row justify-center items-center lg:items-center p-5 pt-5 mx-auto gap-5'>
                 <div class='grid  sm:grid-cols-1 md:grid col-end-3 gap-3 lg:grid-cols-4'>
                     <div class="flex bg-green-700 dark:focus:ring-gray-600 dark:hover:bg-green-600 pr-4 pl-4">

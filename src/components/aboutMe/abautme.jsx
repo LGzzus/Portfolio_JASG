@@ -4,6 +4,10 @@ import JASG from '../../../public/jasg.jpg'
 export default function Example() {
     return (
         <>
+            <div class='max-w-screen-xl flex flex-col items-center justify-center p-5 pt-5 mx-auto gap-1'>
+                <span class='text-2xl font-bold text-blue-300' >Jesus Adair Sosa García</span>
+                <span className='text-transparent text-xl bg-clip-text bg-gradient-to-r from-green-500 to-yellow-400'>Desarrollador Java BackEnd</span>
+            </div>
             <div id="section-aboutMe" class='max-w-screen-xl flex flex-col lg:flex-row justify-center items-center lg:items-center p-5 pt-5 mx-auto gap-5'>
                 <div class='p-4 mr-5 mb-5 max-w-xl rounded-lg dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700'>
                     <img src={JASG} class="h-lg w-xl"  alt="Flowbite Logo" />
