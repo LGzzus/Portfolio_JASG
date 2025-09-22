@@ -5,8 +5,8 @@ export default function Example() {
     return (
         <>
             <div id="section-aboutMe" class='max-w-screen-xl flex flex-wrap p-5 pt-5'>
-                <div class='p-4'>
-                    <img src={JASG} class="h-8" alt="Flowbite Logo" />
+                <div class='p-4 max-w-xl'>
+                    <img src={JASG} class="h-lg w-xl"  alt="Flowbite Logo" />
                 </div>
                 <div>
                     <a href="#" class="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
