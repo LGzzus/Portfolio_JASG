@@ -18,9 +18,6 @@ const navbar = () => {
           <div class='hidden w-full md:block md:w-auto' id="navbar-default">
             <ul class="font-medium text-blue-300 flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 ">
               <li>
-                <a href='#' class='block py-2 px-3'>Acerca de mí</a>
-              </li>
-              <li>
                 <a href='#' class='block py-2 px-3'>Profesional</a>
               </li>
               <li>
