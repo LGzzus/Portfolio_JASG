@@ -17,7 +17,7 @@ export default function Example() {
                 <div>
                     <a href="#" class="block max-w-xl p-6 bg-blue-600 rounded-lg shadow-sm dark:bg-yellow-400 ">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-black">Perfil Profesional</h5>
-                        <p class="font-normal text-gray-700 dark:text-black text-justify">
+                        <p class="font-normal text-black text-justify">
                             Desarrollador Java Backend con más de 4 años de experiencia, especializado en la creación de soluciones escalables y eficientes utilizando tecnologías como Spring Boot y PostgreSQL. Apasionado por la innovación y la mejora continua, me mantengo actualizado en nuevas herramientas y metodologías, integrando prácticas de DevOps y tecnologías en la nube como GCP y AWS para optimizar despliegues, automatizar procesos y garantizar la confiabilidad de los sistemas.                          
                         </p>
                     </a>
