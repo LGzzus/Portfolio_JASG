@@ -42,6 +42,14 @@ const tech = () => {
                         <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt=""/>
                         <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">bash</span>
                     </div>
+                    <div class="flex bg-blue-600 hover:bg-blue-700 dark:bg-yellow-300 dark:hover:bg-yellow-400 rounded-xl pr-4 pl-4">
+                        <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt=""/>
+                        <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Terraform</span>
+                    </div>
+                    <div class="flex bg-blue-600 hover:bg-blue-700 dark:bg-yellow-300 dark:hover:bg-yellow-400 rounded-xl pr-4 pl-4">
+                        <img class="h-auto max-w-full rounded-lg" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt=""/>
+                        <span class="text-blue-300 self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Jenkins</span>
+                    </div>
                 </div>
             </div>
         </>

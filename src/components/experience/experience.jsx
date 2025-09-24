@@ -9,7 +9,7 @@ const school = () => {
                 </div>
             </div>
             <div class='max-w-screen-xl flex flex-col justify-center items-center lg:items-center mx-auto  p-5 pt-5  gap-5'>
-                <div class="w-full items-start justify-center p-5 pt-5 border border-blue-600 dark:border-yellow-400 rounded-lg dark:bg-gray-950">
+                <div class="w-full items-start justify-center p-5 pt-5 border border-blue-600 dark:border-yellow-400 rounded-lg">
                     <div class="flex flex-col gap-2">
                         <span class="text-2xl text-blue-600 dark:text-yellow-400 font-bold">Desarrollador BackEnd - Motivus</span> 
                         <div class="max-w-screen flex flex-col lg:flex-row">
@@ -48,15 +48,6 @@ const school = () => {
                         </span>
                     </div>
                     
-                </div>
-                <div class="w-full items-start justify-center p-5 pt-5 border border-blue-600 dark:border-yellow-400 rounded-lg">
-                    <div class="flex flex-col">
-                        <span class="text-2xl text-blue-600 dark:text-yellow-400 font-bold">Club de programación de alumnos destacados - UATx</span> 
-                        <span class="text-black dark:text-white">
-                            Durante su recorrido escolar en la Universidad Autonóma de Tlaxcala pertenecio al Club de programación de alumnos destacados desarrollando pequeños proyectos
-                            para la institucion.
-                        </span>
-                    </div>
                 </div>
             </div>
         </>
