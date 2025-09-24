@@ -19,7 +19,9 @@ const school = () => {
                             en donde vivirian los distintos microservicios. 
                             Manejo y administro servicios nativos de la nube por mensionar algunos Pub/Sub, Api Gateway, Secret Manager, Buckets, Cloud SQl, Logging, Cloud Jobs, Cloud Run, entro otros.
                             </span>
-                            <img class="h-auto max-w-auto rounded-lg" src={Motivus} alt=""/>
+                            <div class="bg-black">
+                                <img class="h-auto max-w-auto rounded-lg" src={Motivus} alt=""/>
+                            </div>
                         </div>
                     </div>
                 </div>
