@@ -5,7 +5,7 @@ export default function Example() {
     return (
         <>
             <div class='max-w-screen-xl flex flex-col items-center justify-center p-5 pt-5 mx-auto gap-1'>
-                <div class="text-2xl font-bold">
+                <div class="text-6xl font-bold">
                     <a class=" dark:text-white ">Hola, </a><a class='text-blue-600 dark:text-yellow-400' >soy [Jesus Adair Sosa García]</a>
                 </div>
                 <span className="text-lg dark:text-white ">Desarrollador Java BackEnd</span>
