@@ -6,7 +6,7 @@ const school = () => {
                     <span class="text-2xl text-yellow-400 font-bold">Experience</span>
                 </div>
             </div>
-            <div class='max-w-screen-xl flex flex-col justify-center items-center p-5 pt-5  gap-5'>
+            <div class='max-w-screen-xl flex flex-col justify-center items-center lg:items-center mx-auto  p-5 pt-5  gap-5'>
                 <div class="w-full items-start justify-center p-5 pt-5 border border-yellow-400 rounded-lg">
                     <span class="text-2xl text-yellow-400 font-bold">Desarrollador BackEnd - Motivus</span> 
                 </div>
